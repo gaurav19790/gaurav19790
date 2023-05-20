@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gaurav19790
 - 👀 I’m interested in Web Developement and Android Developement 
 - 🌱 I’m currently learning MERN
-- 💞️ I’m looking to collaborate on React native
+- 💞️ Open source contributer
 - 📫 How to reach me gauravrajput19790@gmail.com
 
 <!---
